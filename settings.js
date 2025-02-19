@@ -11,19 +11,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "+233549551004"
-global.ownername = "LOSTBOY"
+global.ownernomer = "2348137031314"
+global.ownername = "charlie"
 global.ytname = "YT: "
-global.socialm = "GitHub: LOSTBOY246"
-global.location = "Ghana, Kumasi , Kwadaso"
+global.socialm = "GitHub: mrsmileboss"
+global.location = "nigeria, lagos , ikeja"
 
-global.ownernumber = '+233549551004'  //creator number
-global.ownername = 'LOSTBOY' //owner name
-global.botname = 'C-SUIT BUG BOT' //name of the bot
+global.ownernumber = '2348137031314'  //creator number
+global.ownername = 'charlie' //owner name
+global.botname = 'sheriff' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'LOSTBOY\n\nContact: +233549551004'
+global.author = 'charlie\n\nContact: +233549551004'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -69,7 +69,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'DONE😌 !',
-    prem: 'This feature can be used by LOSTBOY,LORDTECH OR premium user only',
+    prem: 'This feature can be used by charlie,mrsmileboss OR premium user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
